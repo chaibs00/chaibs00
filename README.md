@@ -206,9 +206,9 @@ to improve stability of urban energy systems for smart cities.</p>
 ### 🐍 Watch my contribution graph get eaten by the snake
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
