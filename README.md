@@ -19,28 +19,69 @@
 
 </div>
 
-## About Me
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=About%20Me&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+
 Future Data Engineer & AI Developer from Morocco, focused on building production-ready intelligent systems. I design AI automations and scalable data pipelines that transform raw data into reliable, deployable solutions for real-world challenges.
 - Design and implement end-to-end data pipelines for analytics and AI workloads
 - Build and orchestrate automation workflows using n8n
 - Deploy, monitor, and maintain machine learning models in production environments
 
 
-## Experience : 
-
-### Huawei Developper competition "spark infinity" (December 2025) finaliste :
-- Developed RenewStation, an AI-powered platform for renewable energy optimization using Huawei Cloud services, designed to stabilize and optimize urban energy systems.
-- AI-driven monitoring, forecasting, and smart distribution of renewable energy
-- Transforms unpredictable renewable sources into a stable supply for smart cities
 
 
-### AI Engineer Intnership - Mrabet Immobilier (June 2025 — July 2025) : 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Experience&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
+
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💼 Experience</h3>
+
+**AI Engineer** • Mrabet Immobilier <br>
+📅 June 2025 – July 2025 <br>
+
 - Developed a data-driven decision support dashboard that analyzes historical and market data to evaluate construction project feasibility and expected ROI.
 - Built a responsive web interface with Next.js and Firebase to input project details and display predictions
 - Integrated the AI model with the web application to provide real-time, data-driven insights for project evaluation
 
+<br>
 
-## Projects : 
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🏆 Hackathons</h3>
+
+**Water4Future International Hackathon by Unesco**  
+🥈 Finalist <br>
+📅 February 2026 <br>
+
+- Developped **HydrisX** an innovative solution taht optimizes water distribution between interconnected dams. 
+- Predictive flood prevention using rainfall and water level data
+- Automated water redistribution between connected dams
+- Reduction of water waste by optimizing storage capacity
+- Real-time monitoring and decision-making system .
+
+<br>
+
+**Hwauei Developper competition *sparck infinity* 2025**  
+🥇 3rd place <br>
+📅 November 2025 - December 2025 <br>
+
+- Developed RenewStation, an AI-powered platform for renewable energy optimization using Huawei Cloud services, designed to stabilize and optimize urban energy systems.
+- AI-driven monitoring, forecasting, and smart distribution of renewable energy
+- Transforms unpredictable renewable sources into a stable supply for smart cities
+
+</td>
+</tr>
+</table>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Projects&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 
 <table>
@@ -140,7 +181,7 @@ to improve stability of urban energy systems for smart cities.</p>
 
 
 
-## Tools & Technologies 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Tools+Technologies&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://cdn.simpleicons.org/n8n/red" alt="n8n" width="50"/>
@@ -150,7 +191,7 @@ to improve stability of urban energy systems for smart cities.</p>
 
 
 
-## GitHub Status  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Github+status&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="bensbehChaimae" /></picture></a>
