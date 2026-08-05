@@ -194,9 +194,9 @@ to improve stability of urban energy systems for smart cities.</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Github+status&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 <p align="center">
-  <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="bensbehChaimae" /></picture></a>
+  <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="github stats" /></picture></a>
   <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=chaibs00&hide_title=false&layout=compact&theme=blue-green&count_private=false" /></picture></a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=vue" alt="profile summary" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=vue" alt="profile_summary" /> -->
 </p>
 
 
