@@ -33,51 +33,84 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Experience&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  
+
+
 <h3 align="center">💼 Experience</h3>
 
-**AI Engineer Intern** • AphelionX innovations <br>
-📅 Jul 2026 – Aug 2026 • Hybrid <br>
-
-- Replaced a cloud LLM with a locally fine-tuned model for automated web test generation
-- Built an SFT (supervised finetuning) dataset via knowledge distillation (teacher–student)
-- Trained and evaluated 3 LoRA adapters on an NVIDIA DGX Spark
-
-<br>
-
-
-</td>
-
+<table>
+<tr>
 <td width="50%" valign="top">
+
+**🤖 AI Engineer Intern**<br>
+**AphelionX innovations** · Hybrid<br>
+<sub>Jul 2026 – Aug 2026</sub>
+
+Replaced a cloud LLM with a locally fine-tuned model for web test generation.
+
+<details>
+<summary>Details</summary>
+
+- SFT dataset built via knowledge distillation
+- 3 LoRA adapters trained & evaluated
+- Trained on NVIDIA DGX Spark
+
+</details>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=flat)
+![NVIDIA](https://img.shields.io/badge/DGX_Spark-76B900?style=flat&logo=nvidia&logoColor=white)
+
+
+</tr>
+</table>
+
 
 <h3 align="center">🏆 Hackathons</h3>
 
-**Water4Future International Hackathon by Unesco**  
-🥈 Finalist <br>
-📅 February 2026 <br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Developped **HydrisX** an innovative solution taht optimizes water distribution between interconnected dams. 
-- Predictive flood prevention using rainfall and water level data
-- Automated water redistribution between connected dams
-- Reduction of water waste by optimizing storage capacity
-- Real-time monitoring and decision-making system .
+**💧 HydrisX**<br>
+**Water4Future International Hackathon · UNESCO**<br>
+🥈 Finalist · <sub>Feb 2026</sub>
 
-<br>
+AI system that optimizes water distribution between interconnected dams.
 
-**Hwauei Developper competition *sparck infinity* 2025**  
-🥇 3rd place <br>
-📅 November 2025 - December 2025 <br>
+<details>
+<summary>Details</summary>
 
-- Developed RenewStation, an AI-powered platform for renewable energy optimization using Huawei Cloud services, designed to stabilize and optimize urban energy systems.
-- AI-driven monitoring, forecasting, and smart distribution of renewable energy
-- Transforms unpredictable renewable sources into a stable supply for smart cities
+- Flood prediction from rainfall & water-level data
+- Automated redistribution between connected dams
+- Less water waste through optimized storage
+- Real-time monitoring & decision support
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ RenewStation**<br>
+**Huawei Developer Competition · Spark Infinity 2025**<br>
+🥉 3rd Place · <sub>Nov – Dec 2025</sub>
+
+AI platform on Huawei Cloud that stabilizes renewable energy supply for smart cities.
+
+<details>
+<summary>Details</summary>
+
+- AI-driven monitoring & energy forecasting
+- Smart distribution of renewable energy
+- Turns intermittent sources into stable supply
+
+</details>
 
 </td>
 </tr>
 </table>
+
+
+
 
 
 
