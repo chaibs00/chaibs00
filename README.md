@@ -36,15 +36,15 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
+  
 <h3 align="center">💼 Experience</h3>
 
-**AI Engineer** • Mrabet Immobilier <br>
-📅 June 2025 – July 2025 <br>
+**AI Engineer Intern** • AphelionX innovations <br>
+📅 Jul 2026 – Aug 2026 • Hybrid <br>
 
-- Developed a data-driven decision support dashboard that analyzes historical and market data to evaluate construction project feasibility and expected ROI.
-- Built a responsive web interface with Next.js and Firebase to input project details and display predictions
-- Integrated the AI model with the web application to provide real-time, data-driven insights for project evaluation
+- Replaced a cloud LLM with a locally fine-tuned model for automated web test generation
+- Built an SFT (supervised finetuning) dataset via knowledge distillation (teacher–student)
+- Trained and evaluated 3 LoRA adapters on an NVIDIA DGX Spark
 
 <br>
 
