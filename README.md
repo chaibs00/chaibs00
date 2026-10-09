@@ -19,8 +19,11 @@
 
 </div>
 
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=About%20Me&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=40&text=About%20Me&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
 
 Future Data Engineer & AI Developer from Morocco, focused on building production-ready intelligent systems. I design AI automations and scalable data pipelines that transform raw data into reliable, deployable solutions for real-world challenges.
 - Design and implement end-to-end data pipelines for analytics and AI workloads
@@ -30,7 +33,10 @@ Future Data Engineer & AI Developer from Morocco, focused on building production
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Experience&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
+<br>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=40&text=Experience&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 
 
@@ -112,9 +118,10 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
 
 
 
+<br>
+<br>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Projects&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=40&text=Projects&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 
 <table>
@@ -212,9 +219,11 @@ to improve stability of urban energy systems for smart cities.</p>
 
 
 
+<br>
+<br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Tools+Technologies&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=40&text=Tools+Technologies&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://cdn.simpleicons.org/n8n/red" alt="n8n" width="50"/>
@@ -224,12 +233,18 @@ to improve stability of urban energy systems for smart cities.</p>
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=55&text=Github+status&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
+<br>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=40&text=Github+status&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 <p align="center">
-  <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="github stats" /></picture></a>
+  <a href="https://github.com/chaibs00/beautiful-github-homepage">
+    <picture>
+      <img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="github stats" />
+    </picture></a>
   <a href="https://github.com/chaibs00/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=chaibs00&hide_title=false&layout=compact&theme=blue-green&count_private=false" /></picture></a>
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=vue" alt="profile_summary" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=vue" alt="profile_summary" />
 </p>
 
 
