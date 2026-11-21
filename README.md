@@ -226,7 +226,6 @@ to improve stability of urban energy systems for smart cities.</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=00C9A7&height=40&text=Tools+Technologies&fontSize=26&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://cdn.simpleicons.org/n8n/red" alt="n8n" width="50"/>
     <img src="https://skillicons.dev/icons?i=bash,ubuntu,linux,python,javascript,ts,react,tailwindcss,flask,fastapi,pytorch,tensorflow,opencv,selenium,c,cpp,git,docker,githubactions,azure,aws,googlecloud,grafana,prometheus,kafka,mysql,mongodb,supabase,postgres,nginx,nodejs" />
   </a>
 </p>
