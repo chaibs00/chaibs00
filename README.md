@@ -2,7 +2,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0E7490,100:22D3EE&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=30&fontColor=ffffff&fontAlignY=38&font=Fira%20Code&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Data+Engineer;Building+RAG+%26+LLM+Apps;Training+RL+Agents;Fine-tuning+Vision+Models&font=Fira%20Code&center=true&width=700&height=50&color=22D3EE&vCenter=true&pause=1000&size=28" />
+<!-- <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Data+Engineer;Building+RAG+%26+LLM+Apps;Training+RL+Agents;Fine-tuning+Vision+Models&font=Fira%20Code&center=true&width=700&height=50&color=22D3EE&vCenter=true&pause=1000&size=28" /> -->
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Open+to+a+6-month+PFE+internship;%F0%9F%93%85+Starting+January+%2F+February+2027;%F0%9F%8E%AF+AI+Engineering+%C2%B7+Generative+AI+%C2%B7+Applied+ML&font=Fira%20Code&weight=600&size=20&color=22D3EE&width=650&height=40&pause=1500&vCenter=true" alt="Currently looking for a 6-month end-of-study internship (PFE) starting January/February 2027 in AI Engineering, Generative AI, or Applied Machine Learning" />
 
 </div>
 
@@ -22,10 +24,11 @@
 <!-- ABOUT ME -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=06B6D4&height=40&text=About%20Me&fontSize=26&fontAlign=10.1&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
-Future Data Engineer & AI Developer from Morocco, focused on building production-ready intelligent systems. I design AI systems and scalable data pipelines that transform raw data into reliable, deployable solutions for real-world challenges.
-- Design and implement end-to-end data pipelines for analytics and AI workloads
-- Train and fine-tune models (LoRA, VLMs, RL agents)
-- Deploy, monitor, and maintain machine learning models in production environments
+Future `AI Engineer` & `Data Scientist` from Morocco 🇲🇦, interested in building intelligent systems that solve real-world problems. My interests span `AI Engineering`, `Machine Learning`, and `Data Engineering`, with a focus on turning ideas and raw data into practical, deployable solutions.
+ 
+- Build `AI assistants`, `RAG systems`, and `LLM-powered agents` for knowledge retrieval and workflow automation.
+- Develop and fine-tune `ML/DL models` for computer vision, OCR, VLMs, forecasting, and reinforcement learning.
+- Design `scalable data pipelines`, analytics platforms, and cloud infrastructure to support AI and data-driven applications.
 
 <br>
 
