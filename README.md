@@ -275,10 +275,14 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
 <p align="center">
   <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=chaibs00&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1120&title_color=22D3EE&icon_color=06B6D4&text_color=CFFAFE&hide_border=true" alt="github stats" />
   <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=chaibs00&layout=compact&count_private=false&bg_color=0B1120&title_color=22D3EE&text_color=CFFAFE&hide_border=true" alt="top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=tokyonight" alt="profile summary" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaibs00&theme=tokyonight" alt="profile summary" /> -->
 </p>
 
+<br> 
+
 <h3 align="center">🐍 Watch my contribution graph get eaten by the snake</h3>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-contribution-grid-snake.svg" />
@@ -286,18 +290,10 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
   <img alt="github-snake" src="https://raw.githubusercontent.com/bensbehChaimae/bensbehChaimae/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
+
+
 <br><br>
 
-<!-- LET'S CONNECT -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=06B6D4&height=40&text=Let's%20Connect&fontSize=26&fontAlign=14.7&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
-
-<div align="center">
-
-<!-- TODO: replace the 3 links below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/TODO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://TODO.vercel.app)
-[![Email](https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:TODO@gmail.com)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0B1120&height=120&section=footer" width="100%"/>
