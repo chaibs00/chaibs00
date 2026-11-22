@@ -145,7 +145,6 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <!-- TODO: add repo link -->
       <h3>🔤 <a href="https://github.com/chaibs00/arabic-ocr-vlm-finetuning">Arabic OCR — Fine-tuned VLM</a></h3>
       <p>Fine-tuned a <strong>vision-language model</strong> for <strong>Arabic text recognition</strong>,
       turning scanned Arabic documents into clean, searchable text.</p>
@@ -158,7 +157,20 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
       <img src="https://img.shields.io/badge/Computer%20Vision-F43F5E?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
-      <!-- TODO: add repo link -->
+      <h3>✈️ <a href="https://github.com/chaibs00/AeroIntel-Airport-managment-system">AeroIntel — Intelligent Airport Management System</a></h3>
+      <p>A web app for <strong>aircraft analysis</strong> with two interactive labs: a <strong>Classification Lab</strong> that identifies aircraft models (<strong>ResNet50</strong> and a custom <strong>AeroNet</strong>, ~95% accuracy)
+      and a <strong>Detection Lab</strong> that locates aircraft in aerial and satellite imagery (<strong>YOLOv8</strong>, ~92% mAP).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0B1120?style=flat&logo=python&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/PyTorch-0B1120?style=flat&logo=pytorch&logoColor=22D3EE"/>
+        <img src="https://img.shields.io/badge/YOLOv8-0B1120?style=flat"/>
+        <img src="https://img.shields.io/badge/ResNet50-0B1120?style=flat"/>
+      </p>
+      <img src="https://img.shields.io/badge/Computer%20Vision-F43F5E?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/chaibs00/network-intrusion-detection">Network Intrusion Detection</a></h3>
       <p>Attack-type classification on the <strong>CSE-CIC-IDS2018</strong> dataset, with an interactive
       <strong>Streamlit</strong> demo to test predictions on network traffic.</p>
@@ -169,10 +181,7 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
       </p>
       <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <!-- TODO: add repo link -->
       <h3>🚁 <a href="https://github.com/chaibs00/rl-drone-safe-navigation">SafeRoute — Safe Drone Delivery</a></h3>
       <p>A drone delivers packages across a <strong>16×16 urban grid</strong> with buildings and risk zones.
       Compares <strong>standard RL</strong> against <strong>safety-aware RL</strong> (hard and soft risk constraints).</p>
@@ -183,8 +192,9 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
       </p>
       <img src="https://img.shields.io/badge/Reinforcement%20Learning-F59E0B?style=for-the-badge"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <!-- TODO: add repo link -->
       <h3>🧊 <a href="https://github.com/chaibs00/rl-qlearning-frozenlake">FrozenLake — Q-Learning Agent</a></h3>
       <p>A <strong>tabular Q-learning</strong> agent that learns to cross the slippery
       <strong>FrozenLake</strong> environment, with learning curves and policy visualization.</p>
@@ -195,8 +205,6 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
       </p>
       <img src="https://img.shields.io/badge/Reinforcement%20Learning-F59E0B?style=for-the-badge"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ SalesSync — CRM Sales Data Pipeline (Azure)</h3>
       <p>A production-style <strong>Azure data pipeline</strong> migrating on-prem CRM sales data to the cloud,
@@ -208,8 +216,9 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
       </p>
       <img src="https://img.shields.io/badge/Data%20Engineering-10B981?style=for-the-badge"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <!-- TODO: add repo link -->
       <h3>🚗 <a href="https://github.com/chaibs00/NextRide-car-recommendation-price-prediction-system">Car Recommendation Pipeline</a></h3>
       <p>A full-stack <strong>big data system</strong> that scrapes car listings from <strong>Avito</strong> and <strong>Moteur</strong>,
       streams them through <strong>Kafka</strong>, processes them with <strong>Spark</strong>, and stores them in <strong>Cassandra</strong>.
@@ -228,7 +237,6 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
       <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge"/>
     </td>
   </tr>
-  <!-- TODO: next row → AeroIntel + 3rd data engineering project (copy a <td> block above) -->
 </table>
 
 <br>
@@ -262,7 +270,7 @@ AI platform on Huawei Cloud that stabilizes renewable energy supply for smart ci
 
 
 <!-- TOOLS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=06B6D4&height=40&text=Technologies&fontSize=26&fontAlign=21.1&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=06B6D4&height=40&text=Technologies&fontSize=26&fontAlign=13.8&fontColor=ffffff&font=Fira%20Code&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
